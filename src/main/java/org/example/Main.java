@@ -31,6 +31,7 @@ public class Main {
         lis.add("cocaina");
         lis.add("bazuca");
         lis.add("lsd");
+        lis.add("fentanilo");
 
         System.out.println("imprimiendo con un for normal");
         for (int i = 0; i < lis.size(); i++){
