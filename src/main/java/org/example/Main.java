@@ -24,7 +24,7 @@ public class Main {
         for(String droga:drogas){
             System.out.println(droga);
         }
-        System.out.println();
+        System.out.println("");
 
         ArrayList<String> lis = new ArrayList<String>();
         lis.add("bareto");
